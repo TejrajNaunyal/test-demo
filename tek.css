@@ -6,4 +6,5 @@ body{
     text-align: center;
     text-shadow: 0cap;
     font-style: oblique;
+    font-variant: inherit;
 }
